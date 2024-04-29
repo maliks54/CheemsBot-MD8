@@ -30,18 +30,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.ownernumber = '923348109286'
+global.ownername = '🦄드림 가이 Chief Sohaib'
+global.ownerNumber = ["923348109286@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Khan soohaib"
+global.websitex = "https://youtu.be/https://youtube.com/@KhanSoohaib?si=veoToKWp1U0ar0JY  "
+global.wagc = "https://chat.whatsapp.com/Follow the Chief MALIK SOOHAIB channel on WhatsApp: https://whatsapp.com/channel/0029VaN4SytL2ATsCBC7UJ1u  "
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "923348109286@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
